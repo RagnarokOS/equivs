@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 26 Oct 2022 17:47:28 +0000
+Source: sudo
+Binary: sudo
+Architecture: all
+Version: 99:99
+Distribution: unstable
+Urgency: low
+Maintainer: I-LeCorbeau <I-LeCorbeau (at) protonmail (dot) com>
+Changed-By: I-LeCorbeau <I-LeCorbeau (at) protonmail (dot) com>
+Description:
+ sudo       - dummy package for sudo
+Changes:
+ sudo (99:99) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ af6db3b10601ab8b1db3a289288109bf9c987fc5 2224 sudo_99_all.deb
+ 19ee1e664ae61ab351374ab7145daf8eb498a0b3 4634 sudo_99_amd64.buildinfo
+Checksums-Sha256:
+ 724b9a6668a7d18a6981d90bfb5e93f76ef8c592091b7afb53750d0058b64c85 2224 sudo_99_all.deb
+ bfdd8134e8b73d0fc4cdc23d9731af5dba69b4742f13b7c8cdf05ebb5c26e62c 4634 sudo_99_amd64.buildinfo
+Files:
+ 001dd5536e0267f7a50285ebdb0b219e 2224 misc optional sudo_99_all.deb
+ 1dafc444278408cf48ec5d7ae39b1711 4634 misc optional sudo_99_amd64.buildinfo

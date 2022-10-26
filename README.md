@@ -30,9 +30,3 @@ dpkg-deb -R _package-name target-directory_ command, e.g.
 dpkg-deb -R Downloads/man-db_99_all.deb $HOME/.local/src/
 ```
 
-meta subdirectory
------------------
-
-This contains only meta-packages meant to satisfy the dependencies of packages
-that are built from source. These will be used until the entire base system (including
-dependencies) is built from source.

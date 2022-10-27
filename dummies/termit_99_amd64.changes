@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 26 Oct 2022 18:05:39 -0600
+Source: termit
+Binary: termit
+Architecture: all
+Version: 99:99
+Distribution: unstable
+Urgency: low
+Maintainer: I-LeCorbeau <I-LeCorbeau (at) protonmail (dot) com>
+Changed-By: I-LeCorbeau <I-LeCorbeau (at) protonmail (dot) com>
+Description:
+ termit     - dummy package for termit
+Changes:
+ termit (99:99) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ c1a526761e72866bf6c2a720479e73fa5163837a 2276 termit_99_all.deb
+ 05e6ba786f1bab60329edf4a155158881d9df92f 5006 termit_99_amd64.buildinfo
+Checksums-Sha256:
+ 9e9016b30bcd9854ef58fd4b15f2144d4af4740a4706a410514be7553a5b6f09 2276 termit_99_all.deb
+ f116c1fe6c7990e3e757d32027a5b8db45556488e9bf92acb1730fa11ae09dd3 5006 termit_99_amd64.buildinfo
+Files:
+ 155aa12d0d737b55dd8481058d77dae3 2276 misc optional termit_99_all.deb
+ 572f40af2bc0cec6da9da8f58dcb3bbf 5006 misc optional termit_99_amd64.buildinfo

@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 26 Oct 2022 23:21:36 +0000
+Source: sudo-ldap
+Binary: sudo-ldap
+Architecture: all
+Version: 99:99
+Distribution: unstable
+Urgency: low
+Maintainer: I-LeCorbeau <I-LeCorbeau (at) protonmail (dot) com>
+Changed-By: I-LeCorbeau <I-LeCorbeau (at) protonmail (dot) com>
+Description:
+ sudo-ldap  - dummy package for sudo
+Changes:
+ sudo-ldap (99:99) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ f7fdb88efedbed87bd82e0ba3c8741dbc5d46e35 2228 sudo-ldap_99_all.deb
+ 875da619ee731bf6a9fb7177905976835d20867e 5021 sudo-ldap_99_amd64.buildinfo
+Checksums-Sha256:
+ 9c2517f3f7387f4747295021d009b7b8f8fb88eb513b31d184fe36e1267f0189 2228 sudo-ldap_99_all.deb
+ 3086425063f967dfc143c6aa99a552e22d649b48477fc5aa44c9c4744c7cb92f 5021 sudo-ldap_99_amd64.buildinfo
+Files:
+ 060e6552de19079328923c7aab2af97a 2228 misc optional sudo-ldap_99_all.deb
+ 8c588a5d7e26fb58a3a079d7ebfe862d 5021 misc optional sudo-ldap_99_amd64.buildinfo

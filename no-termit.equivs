@@ -1,0 +1,11 @@
+Package: termit
+Version: 99:99
+Maintainer: I-LeCorbeau <I-LeCorbeau (at) protonmail (dot) com>
+Architecture: all
+Description: dummy package for termit
+ There's no need for termit in a Ragnarok live iso,
+ but it gets installed anyway. Can't find what package
+ relies on it so this exists to prevent live-build
+ from installing it. It can still be installed by the
+ user later by first doing apt remove termit then
+ apt install termit.
